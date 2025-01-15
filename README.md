@@ -1,2 +1,3 @@
-# **hawtstrokes.guthub.io**
-The front page for all hawtstroke's repos.
+# **HawtStrokes.guthub.io**
+
+Portfolio repository that runs on react and uses gh-pages for deployment.
