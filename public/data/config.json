@@ -3,6 +3,46 @@
   "education": "Went to Heaven and Hell",
   "projects": [
     {
+      "title": "TerraCheck",
+      "description": "A compact and mobile soil health diagnostic tool that uses Arduino Nano.",
+      "link": "https://github.com/HawtStrokes/TerraCheck"
+    },
+    {
+      "title": "AirlineReservationSystem",
+      "description": "Airline Reservation System with GUI, SQLite, and Amadeus REST API support.",
+      "link": "https://github.com/HawtStrokes/AirlineReservationSystem"
+    },
+    {
+      "title": "OperaThemeMaker",
+      "description": "Create Themes for Opera and Opera GX.",
+      "link": "https://github.com/HawtStrokes/OperaThemeMaker"
+    },
+
+
+    {
+      "title": "AudioViz",
+      "description": "Terminal-based audio visualization tool",
+      "link": "https://github.com/HawtStrokes/AudioViz"
+    },
+
+    {
+      "title": "TidalScores",
+      "description": "A compendium of all scores and a log of performance done in TidalCycles",
+      "link": "https://github.com/HawtStrokes/TidalScores"
+    },
+    {
+      "title": "TransformerModelTrainer",
+      "description": "A Jupyter notebook to seamlessly train AI models.",
+      "link": "https://github.com/HawtStrokes/TransformerModelTrainer"
+    },
+    {
+      "title": "lex",
+      "description": "Lex is a web-based legal expert system designed to assist users in understanding and applying principles of Business Law. It integrates CLIPS for rule-based reasoning and Flask for a user-friendly interface.",
+      "link": "https://github.com/HawtStrokes/lex"
+    },
+
+
+    {
       "title": "hawtstrokes-doom-config",
       "description": "My personal doom emacs configuration",
       "link": "https://github.com/HawtStrokes/hawtstrokes-doom-config"
@@ -26,21 +66,6 @@
       "title": "mumble",
       "description": "Mumble is a mobile application designed to address the social challenges faced by students at Mapúa Malayan Colleges Mindanao (MMCM)",
       "link": "https://github.com/HawtStrokes/mumble"
-    },
-    {
-      "title": "TerraCheck",
-      "description": "A compact and mobile soil health diagnostic tool that uses Arduino Nano.",
-      "link": "https://github.com/HawtStrokes/TerraCheck"
-    },
-    {
-      "title": "AirlineReservationSystem",
-      "description": "Airline Reservation System with GUI, SQLite, and Amadeus REST API support.",
-      "link": "https://github.com/HawtStrokes/AirlineReservationSystem"
-    },
-    {
-      "title": "OperaThemeMaker",
-      "description": "Create Themes for Opera and Opera GX.",
-      "link": "https://github.com/HawtStrokes/OperaThemeMaker"
     },
     {
       "title": "HawtLA",
