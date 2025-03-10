@@ -3,6 +3,11 @@
   "education": "Went to Heaven and Hell",
   "projects": [
     {
+      "title": "RR Boarding House Management System",
+      "description": "A Management System for boarding houses.",
+      "link": "https://github.com/HawtStrokes/RR_Boarding_House"
+    },
+    {
       "title": "TerraCheck",
       "description": "A compact and mobile soil health diagnostic tool that uses Arduino Nano.",
       "link": "https://github.com/HawtStrokes/TerraCheck"
