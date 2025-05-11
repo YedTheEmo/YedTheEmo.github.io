@@ -2,6 +2,21 @@
   "name": "Hawt Strokes Portfolio",
   "education": "Went to Heaven and Hell",
   "projects": [
+  {
+      "title": "eidon",
+      "description": "A command-line tool for advanced cognitive function and socionics analysis.",
+      "link": "https://github.com/YedTheEmo/eidon"
+    },
+    {
+      "title": "emotune",
+      "description": "Adaptive Music Therapy",
+      "link": "https://github.com/YedTheEmo/emotune"
+    },
+    {
+      "title": "yen",
+      "description": "Stocks Volume Price Analysis with AI",
+      "link": "https://github.com/YedTheEmo/yen"
+    },
     {
       "title": "TerraCheck",
       "description": "A compact and mobile soil health diagnostic tool that uses Arduino Nano.",
@@ -89,8 +104,8 @@
     }
   ],
   "contact": {
-    "email": "hawtstrokes1337@gmail.com",
+    "email": "zlopezzzt@gmail.com",
     "linkedin": "https://www.linkedin.com/",
-    "github": "https://github.com/HawtStrokes"
+    "github": "https://github.com/YedTheEmo"
   }
 }
