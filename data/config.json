@@ -1,111 +1,72 @@
 {
-  "name": "Hawt Strokes Portfolio",
-  "education": "Went to Heaven and Hell",
+  "name": "The Archival Conduit",
+  "education": "Turn Back; Turn Back; Turn Back... Lest you care for your life no more...",
   "projects": [
-  {
+    {
+      "title": "void-scribe",
+      "description": "SECRETS MUST REMAIN UNSEEN. TYPE INTO THE VOID.",
+      "link": "https://github.com/YedTheEmo/eidon"
+    },
+    {
       "title": "eidon",
-      "description": "A command-line tool for advanced cognitive function and socionics analysis.",
+      "description": "UNDERSTAND THE MIND",
       "link": "https://github.com/YedTheEmo/eidon"
     },
     {
       "title": "emotune",
-      "description": "Adaptive Music Therapy",
+      "description": "CATHARSIS",
       "link": "https://github.com/YedTheEmo/emotune"
     },
     {
       "title": "yen",
-      "description": "Stocks Volume Price Analysis with AI",
+      "description": "FINANCIAL DOMINION",
       "link": "https://github.com/YedTheEmo/yen"
     },
     {
+      "title": "lex",
+      "description": "LEGAL DOMINION",
+      "link": "https://github.com/YedTheEmo/lex"
+    },
+    {
       "title": "TerraCheck",
-      "description": "A compact and mobile soil health diagnostic tool that uses Arduino Nano.",
-      "link": "https://github.com/HawtStrokes/TerraCheck"
+      "description": "MUNDANE MATTERS",
+      "link": "https://github.com/YedTheEmo/TerraCheck"
     },
     {
       "title": "AirlineReservationSystem",
-      "description": "Airline Reservation System with GUI, SQLite, and Amadeus REST API support.",
-      "link": "https://github.com/HawtStrokes/AirlineReservationSystem"
+      "description": "MUNDANE MATTERS",
+      "link": "https://github.com/YedTheEmo/AirlineReservationSystem"
     },
     {
       "title": "OperaThemeMaker",
-      "description": "Create Themes for Opera and Opera GX.",
-      "link": "https://github.com/HawtStrokes/OperaThemeMaker"
+      "description": "MUNDANE MATTERS",
+      "link": "https://github.com/YedTheEmo/OperaThemeMaker"
     },
-
 
     {
       "title": "AudioViz",
-      "description": "Terminal-based audio visualization tool",
-      "link": "https://github.com/HawtStrokes/AudioViz"
+      "description": "MUNDANE MATTERS",
+      "link": "https://github.com/YedTheEmo/AudioViz"
     },
 
     {
       "title": "TidalScores",
-      "description": "A compendium of all scores and a log of performance done in TidalCycles",
-      "link": "https://github.com/HawtStrokes/TidalScores"
+      "description": "MUNDANE MATTERS",
+      "link": "https://github.com/YedTheEmo/TidalScores"
     },
     {
       "title": "TransformerModelTrainer",
-      "description": "A Jupyter notebook to seamlessly train AI models.",
-      "link": "https://github.com/HawtStrokes/TransformerModelTrainer"
+      "description": "MUNDANE MATTERS",
+      "link": "https://github.com/YedTheEmo/TransformerModelTrainer"
     },
     {
-      "title": "lex",
-      "description": "Lex is a web-based legal expert system designed to assist users in understanding and applying principles of Business Law. It integrates CLIPS for rule-based reasoning and Flask for a user-friendly interface.",
-      "link": "https://github.com/HawtStrokes/lex"
-    },
-
-
-    {
-      "title": "hawtstrokes-doom-config",
-      "description": "My personal doom emacs configuration",
-      "link": "https://github.com/HawtStrokes/hawtstrokes-doom-config"
-    },
-    {
-      "title": "HawtStrokes.github.io",
-      "description": "Website for all my repos.",
-      "link": "https://github.com/HawtStrokes/HawtStrokes.github.io"
-    },
-    {
-      "title": "fit-engage",
-      "description": "Forked from marcmarq/fit-engage",
-      "link": "https://github.com/HawtStrokes/fit-engage"
-    },
-    {
-      "title": "elon-musk-tweets-sentiment-analysis",
-      "description": "A sentiment analysis of Elon Musk's tweets to examine the public's reaction to his online presence and interactions using VADER analysis.",
-      "link": "https://github.com/HawtStrokes/elon-musk-tweets-sentiment-analysis"
-    },
-    {
-      "title": "mumble",
-      "description": "Mumble is a mobile application designed to address the social challenges faced by students at Mapúa Malayan Colleges Mindanao (MMCM)",
-      "link": "https://github.com/HawtStrokes/mumble"
-    },
-    {
-      "title": "HawtLA",
-      "description": "Linear Algebra Library",
-      "link": "https://github.com/HawtStrokes/HawtLA"
-    },
-    {
-      "title": "HawtLib",
-      "description": "A Collection of C++ Libraries",
-      "link": "https://github.com/HawtStrokes/HawtLib"
-    },
-    {
-      "title": "Cyberpunk2077_ControllerRemapper",
-      "description": "Remap Controller Buttons for Cyberpunk 2077",
-      "link": "https://github.com/HawtStrokes/Cyberpunk2077_ControllerRemapper"
-    },
-    {
-      "title": "MakeBigStringMicrosoftCompliant",
-      "description": "Splits a big string to smaller 2048 byte string literals for Microsoft Compliance.",
-      "link": "https://github.com/HawtStrokes/MakeBigStringMicrosoftCompliant"
+      "title": "??????????????????????",
+      "description": "???????????????????????",
+      "link": "https://www.google.com/maps/@41.890072,12.4925342,3a,75y,301.45h,94.23t/data=!3m6!1e1!3m4!1s07gbqMWIg_HId5m7W94qHg!2e0!7i13312!8i6656?hl=en"
     }
   ],
   "contact": {
     "email": "zlopezzzt@gmail.com",
-    "linkedin": "https://www.linkedin.com/",
     "github": "https://github.com/YedTheEmo"
   }
 }

@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/8a153b62-92eb-49b4-bec5-15d75fee134b/Noctilus.ico?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250517%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250517T064213Z&X-Amz-Expires=86400&X-Amz-Signature=9c120d03209d7dd607f7b3b5b6641bfd3b0b15787b0defd0800916f2cd2fa144&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22Noctilus.ico%22&response-content-type=image%2Fvnd.microsoft.icon&x-id=GetObject
